@@ -1,0 +1,802 @@
+Algorithm // Test // Duration(ms)
+Execution #1
+Bubble Sort: 448432157ns
+Optimized Bubble Sort: 285027119ns
+Selection Sort: 143171424ns
+Optimized Selection Sort: 216374002ns
+Insertion Sort: 195321312ns
+Counting Sort: 143730ns
+
+Execution #2
+Bubble Sort: 695004772ns
+Optimized Bubble Sort: 481075214ns
+Selection Sort: 427340184ns
+Optimized Selection Sort: 198863401ns
+Insertion Sort: 238891997ns
+Counting Sort: 135251ns
+
+Execution #3
+Bubble Sort: 659470703ns
+Optimized Bubble Sort: 449976237ns
+Selection Sort: 374554323ns
+Optimized Selection Sort: 217597284ns
+Insertion Sort: 193676492ns
+Counting Sort: 264439ns
+
+Execution #4
+Bubble Sort: 1074612032ns
+Optimized Bubble Sort: 568397856ns
+Selection Sort: 527723959ns
+Optimized Selection Sort: 476689858ns
+Insertion Sort: 226224046ns
+Counting Sort: 235628ns
+
+Execution #5
+Bubble Sort: 970765980ns
+Optimized Bubble Sort: 559894159ns
+Selection Sort: 455196011ns
+Optimized Selection Sort: 588552535ns
+Insertion Sort: 244898701ns
+Counting Sort: 205129ns
+
+Execution #6
+Bubble Sort: 957563259ns
+Optimized Bubble Sort: 502175059ns
+Selection Sort: 423420372ns
+Optimized Selection Sort: 307286710ns
+Insertion Sort: 202273029ns
+Counting Sort: 279038ns
+
+Execution #7
+Bubble Sort: 767754058ns
+Optimized Bubble Sort: 490132245ns
+Selection Sort: 419782401ns
+Optimized Selection Sort: 223666668ns
+Insertion Sort: 237277673ns
+Counting Sort: 119381ns
+
+Execution #8
+Bubble Sort: 634581866ns
+Optimized Bubble Sort: 398217529ns
+Selection Sort: 354699229ns
+Optimized Selection Sort: 159934087ns
+Insertion Sort: 206182344ns
+Counting Sort: 164004ns
+
+Execution #9
+Bubble Sort: 820864910ns
+Optimized Bubble Sort: 462314527ns
+Selection Sort: 417574351ns
+Optimized Selection Sort: 235988053ns
+Insertion Sort: 219805709ns
+Counting Sort: 77746ns
+
+Execution #10
+Bubble Sort: 606839540ns
+Optimized Bubble Sort: 284294885ns
+Selection Sort: 231670335ns
+Optimized Selection Sort: 144433331ns
+Insertion Sort: 204616135ns
+Counting Sort: 163360ns
+
+Execution #11
+Bubble Sort: 667535492ns
+Optimized Bubble Sort: 423753389ns
+Selection Sort: 355885628ns
+Optimized Selection Sort: 206359772ns
+Insertion Sort: 204290802ns
+Counting Sort: 255034ns
+
+Execution #12
+Bubble Sort: 914513734ns
+Optimized Bubble Sort: 559482146ns
+Selection Sort: 507666439ns
+Optimized Selection Sort: 384871155ns
+Insertion Sort: 248607786ns
+Counting Sort: 162033ns
+
+Execution #13
+Bubble Sort: 718332769ns
+Optimized Bubble Sort: 455011266ns
+Selection Sort: 390946889ns
+Optimized Selection Sort: 200276565ns
+Insertion Sort: 208986037ns
+Counting Sort: 232045ns
+
+Execution #14
+Bubble Sort: 858315149ns
+Optimized Bubble Sort: 504146792ns
+Selection Sort: 467378224ns
+Optimized Selection Sort: 293675599ns
+Insertion Sort: 216753739ns
+Counting Sort: 291411ns
+
+Execution #15
+Bubble Sort: 1058078024ns
+Optimized Bubble Sort: 760207968ns
+Selection Sort: 891994193ns
+Optimized Selection Sort: 456218585ns
+Insertion Sort: 261590092ns
+Counting Sort: 198345ns
+
+Execution #16
+Bubble Sort: 931962346ns
+Optimized Bubble Sort: 502139761ns
+Selection Sort: 439669750ns
+Optimized Selection Sort: 254673911ns
+Insertion Sort: 247854915ns
+Counting Sort: 406270ns
+
+Execution #17
+Bubble Sort: 968086205ns
+Optimized Bubble Sort: 541086199ns
+Selection Sort: 512514950ns
+Optimized Selection Sort: 301044497ns
+Insertion Sort: 227628899ns
+Counting Sort: 250632ns
+
+Execution #18
+Bubble Sort: 595408159ns
+Optimized Bubble Sort: 329329864ns
+Selection Sort: 273481924ns
+Optimized Selection Sort: 164050135ns
+Insertion Sort: 187684635ns
+Counting Sort: 163129ns
+
+Execution #19
+Bubble Sort: 700762215ns
+Optimized Bubble Sort: 485681154ns
+Selection Sort: 395919731ns
+Optimized Selection Sort: 216689325ns
+Insertion Sort: 223153430ns
+Counting Sort: 94481ns
+
+Execution #20
+Bubble Sort: 547182385ns
+Optimized Bubble Sort: 293516332ns
+Selection Sort: 248607494ns
+Optimized Selection Sort: 140729736ns
+Insertion Sort: 187342515ns
+Counting Sort: 236591ns
+
+Execution #21
+Bubble Sort: 778295320ns
+Optimized Bubble Sort: 502211777ns
+Selection Sort: 417747943ns
+Optimized Selection Sort: 297440653ns
+Insertion Sort: 224425197ns
+Counting Sort: 233868ns
+
+Execution #22
+Bubble Sort: 899346230ns
+Optimized Bubble Sort: 582073050ns
+Selection Sort: 507904546ns
+Optimized Selection Sort: 389495955ns
+Insertion Sort: 226423878ns
+Counting Sort: 115613ns
+
+Execution #23
+Bubble Sort: 630815705ns
+Optimized Bubble Sort: 372508513ns
+Selection Sort: 311316676ns
+Optimized Selection Sort: 158563691ns
+Insertion Sort: 219414426ns
+Counting Sort: 99567ns
+
+Execution #24
+Bubble Sort: 583014225ns
+Optimized Bubble Sort: 308284884ns
+Selection Sort: 274527641ns
+Optimized Selection Sort: 152218794ns
+Insertion Sort: 205517867ns
+Counting Sort: 234611ns
+
+Execution #25
+Bubble Sort: 781750753ns
+Optimized Bubble Sort: 491416780ns
+Selection Sort: 442748732ns
+Optimized Selection Sort: 274584238ns
+Insertion Sort: 230269490ns
+Counting Sort: 225495ns
+
+Execution #26
+Bubble Sort: 754443610ns
+Optimized Bubble Sort: 514156765ns
+Selection Sort: 399185604ns
+Optimized Selection Sort: 220650580ns
+Insertion Sort: 204455449ns
+Counting Sort: 275215ns
+
+Execution #27
+Bubble Sort: 945294626ns
+Optimized Bubble Sort: 555654832ns
+Selection Sort: 473347814ns
+Optimized Selection Sort: 412832418ns
+Insertion Sort: 231747164ns
+Counting Sort: 213721ns
+
+Execution #28
+Bubble Sort: 570804047ns
+Optimized Bubble Sort: 338356209ns
+Selection Sort: 262593495ns
+Optimized Selection Sort: 141769039ns
+Insertion Sort: 186427729ns
+Counting Sort: 173371ns
+
+Execution #29
+Bubble Sort: 779139228ns
+Optimized Bubble Sort: 514320842ns
+Selection Sort: 433144835ns
+Optimized Selection Sort: 272185962ns
+Insertion Sort: 235099826ns
+Counting Sort: 205381ns
+
+Execution #30
+Bubble Sort: 837670178ns
+Optimized Bubble Sort: 601276697ns
+Selection Sort: 503026050ns
+Optimized Selection Sort: 351182087ns
+Insertion Sort: 224022082ns
+Counting Sort: 138424ns
+
+Execution #31
+Bubble Sort: 817718958ns
+Optimized Bubble Sort: 471853557ns
+Selection Sort: 367247672ns
+Optimized Selection Sort: 167640839ns
+Insertion Sort: 186682282ns
+Counting Sort: 98074ns
+
+Execution #32
+Bubble Sort: 563100000ns
+Optimized Bubble Sort: 333061197ns
+Selection Sort: 273391582ns
+Optimized Selection Sort: 152540752ns
+Insertion Sort: 194425223ns
+Counting Sort: 135140ns
+
+Execution #33
+Bubble Sort: 695396814ns
+Optimized Bubble Sort: 429575687ns
+Selection Sort: 358584292ns
+Optimized Selection Sort: 192160130ns
+Insertion Sort: 209112213ns
+Counting Sort: 320738ns
+
+Execution #34
+Bubble Sort: 864284962ns
+Optimized Bubble Sort: 511466318ns
+Selection Sort: 450480695ns
+Optimized Selection Sort: 290798300ns
+Insertion Sort: 238957169ns
+Counting Sort: 176087ns
+
+Execution #35
+Bubble Sort: 750636383ns
+Optimized Bubble Sort: 489356040ns
+Selection Sort: 400216397ns
+Optimized Selection Sort: 216126765ns
+Insertion Sort: 209921144ns
+Counting Sort: 66695ns
+
+Execution #36
+Bubble Sort: 498483482ns
+Optimized Bubble Sort: 240940171ns
+Selection Sort: 201839497ns
+Optimized Selection Sort: 143889172ns
+Insertion Sort: 190067136ns
+Counting Sort: 245859ns
+
+Execution #37
+Bubble Sort: 814320189ns
+Optimized Bubble Sort: 538881400ns
+Selection Sort: 419853125ns
+Optimized Selection Sort: 376125826ns
+Insertion Sort: 215608914ns
+Counting Sort: 230209ns
+
+Execution #38
+Bubble Sort: 831245760ns
+Optimized Bubble Sort: 509556819ns
+Selection Sort: 459562448ns
+Optimized Selection Sort: 349359700ns
+Insertion Sort: 212706379ns
+Counting Sort: 117618ns
+
+Execution #39
+Bubble Sort: 618099153ns
+Optimized Bubble Sort: 359744368ns
+Selection Sort: 303645825ns
+Optimized Selection Sort: 160274391ns
+Insertion Sort: 203025484ns
+Counting Sort: 78335ns
+
+Execution #40
+Bubble Sort: 537311666ns
+Optimized Bubble Sort: 258158775ns
+Selection Sort: 205588418ns
+Optimized Selection Sort: 142463093ns
+Insertion Sort: 191946962ns
+Counting Sort: 176951ns
+
+Execution #41
+Bubble Sort: 740972620ns
+Optimized Bubble Sort: 460448369ns
+Selection Sort: 405027261ns
+Optimized Selection Sort: 263683831ns
+Insertion Sort: 203295998ns
+Counting Sort: 229265ns
+
+Execution #42
+Bubble Sort: 841431562ns
+Optimized Bubble Sort: 506494277ns
+Selection Sort: 458973000ns
+Optimized Selection Sort: 350293330ns
+Insertion Sort: 220772382ns
+Counting Sort: 249362ns
+
+Execution #43
+Bubble Sort: 985608475ns
+Optimized Bubble Sort: 536335522ns
+Selection Sort: 457696798ns
+Optimized Selection Sort: 451766442ns
+Insertion Sort: 237287899ns
+Counting Sort: 157097ns
+
+Execution #44
+Bubble Sort: 662245088ns
+Optimized Bubble Sort: 368448575ns
+Selection Sort: 316053128ns
+Optimized Selection Sort: 164043591ns
+Insertion Sort: 183958849ns
+Counting Sort: 213691ns
+
+Execution #45
+Bubble Sort: 817457242ns
+Optimized Bubble Sort: 469738433ns
+Selection Sort: 418603688ns
+Optimized Selection Sort: 266568258ns
+Insertion Sort: 211864084ns
+Counting Sort: 279049ns
+
+Execution #46
+Bubble Sort: 930432083ns
+Optimized Bubble Sort: 547564738ns
+Selection Sort: 473469977ns
+Optimized Selection Sort: 423615851ns
+Insertion Sort: 231265507ns
+Counting Sort: 181521ns
+
+Execution #47
+Bubble Sort: 796870235ns
+Optimized Bubble Sort: 494931492ns
+Selection Sort: 469617104ns
+Optimized Selection Sort: 259201908ns
+Insertion Sort: 226306481ns
+Counting Sort: 188463ns
+
+Execution #48
+Bubble Sort: 730106408ns
+Optimized Bubble Sort: 461205769ns
+Selection Sort: 408178712ns
+Optimized Selection Sort: 220258206ns
+Insertion Sort: 210422926ns
+Counting Sort: 274002ns
+
+Execution #49
+Bubble Sort: 949153598ns
+Optimized Bubble Sort: 568799885ns
+Selection Sort: 526160816ns
+Optimized Selection Sort: 492061001ns
+Insertion Sort: 237757443ns
+Counting Sort: 272163ns
+
+Execution #50
+Bubble Sort: 940671887ns
+Optimized Bubble Sort: 535886104ns
+Selection Sort: 473020186ns
+Optimized Selection Sort: 452470890ns
+Insertion Sort: 235868503ns
+Counting Sort: 226958ns
+
+Execution #51
+Bubble Sort: 964619192ns
+Optimized Bubble Sort: 506288583ns
+Selection Sort: 469270069ns
+Optimized Selection Sort: 332190572ns
+Insertion Sort: 233684805ns
+Counting Sort: 190820ns
+
+Execution #52
+Bubble Sort: 790046015ns
+Optimized Bubble Sort: 484043805ns
+Selection Sort: 446213173ns
+Optimized Selection Sort: 239132272ns
+Insertion Sort: 208617831ns
+Counting Sort: 236503ns
+
+Execution #53
+Bubble Sort: 876783419ns
+Optimized Bubble Sort: 460691006ns
+Selection Sort: 390651834ns
+Optimized Selection Sort: 201517490ns
+Insertion Sort: 206059143ns
+Counting Sort: 101066ns
+
+Execution #54
+Bubble Sort: 595351893ns
+Optimized Bubble Sort: 331196446ns
+Selection Sort: 296290253ns
+Optimized Selection Sort: 168711643ns
+Insertion Sort: 381183204ns
+Counting Sort: 179894ns
+
+Execution #55
+Bubble Sort: 1112611603ns
+Optimized Bubble Sort: 641277287ns
+Selection Sort: 588004304ns
+Optimized Selection Sort: 245340537ns
+Insertion Sort: 325615938ns
+Counting Sort: 390175ns
+
+Execution #56
+Bubble Sort: 1458387817ns
+Optimized Bubble Sort: 497088016ns
+Selection Sort: 442771411ns
+Optimized Selection Sort: 300819626ns
+Insertion Sort: 230580481ns
+Counting Sort: 142620ns
+
+Execution #57
+Bubble Sort: 557634537ns
+Optimized Bubble Sort: 287182885ns
+Selection Sort: 243109895ns
+Optimized Selection Sort: 143661063ns
+Insertion Sort: 187595772ns
+Counting Sort: 291235ns
+
+Execution #58
+Bubble Sort: 777914928ns
+Optimized Bubble Sort: 483498191ns
+Selection Sort: 494401263ns
+Optimized Selection Sort: 263611068ns
+Insertion Sort: 199374163ns
+Counting Sort: 70027ns
+
+Execution #59
+Bubble Sort: 502953911ns
+Optimized Bubble Sort: 254236290ns
+Selection Sort: 195054166ns
+Optimized Selection Sort: 144697092ns
+Insertion Sort: 182176897ns
+Counting Sort: 191169ns
+
+Execution #60
+Bubble Sort: 766875745ns
+Optimized Bubble Sort: 470534654ns
+Selection Sort: 416134409ns
+Optimized Selection Sort: 354741741ns
+Insertion Sort: 221316073ns
+Counting Sort: 124548ns
+
+Execution #61
+Bubble Sort: 585621861ns
+Optimized Bubble Sort: 371823238ns
+Selection Sort: 295542628ns
+Optimized Selection Sort: 154428024ns
+Insertion Sort: 199495239ns
+Counting Sort: 122569ns
+
+Execution #62
+Bubble Sort: 668078739ns
+Optimized Bubble Sort: 397933131ns
+Selection Sort: 341188502ns
+Optimized Selection Sort: 175486349ns
+Insertion Sort: 196557783ns
+Counting Sort: 111645ns
+
+Execution #63
+Bubble Sort: 664074252ns
+Optimized Bubble Sort: 394013669ns
+Selection Sort: 310073347ns
+Optimized Selection Sort: 158227710ns
+Insertion Sort: 248775868ns
+Counting Sort: 183097ns
+
+Execution #64
+Bubble Sort: 840224350ns
+Optimized Bubble Sort: 505995668ns
+Selection Sort: 418744660ns
+Optimized Selection Sort: 286598809ns
+Insertion Sort: 214227827ns
+Counting Sort: 111527ns
+
+Execution #65
+Bubble Sort: 586825703ns
+Optimized Bubble Sort: 347683043ns
+Selection Sort: 281181264ns
+Optimized Selection Sort: 151901346ns
+Insertion Sort: 213605038ns
+Counting Sort: 144762ns
+
+Execution #66
+Bubble Sort: 662612051ns
+Optimized Bubble Sort: 397581197ns
+Selection Sort: 356138012ns
+Optimized Selection Sort: 177273370ns
+Insertion Sort: 211427853ns
+Counting Sort: 192746ns
+
+Execution #67
+Bubble Sort: 806103772ns
+Optimized Bubble Sort: 540544040ns
+Selection Sort: 445793409ns
+Optimized Selection Sort: 299754543ns
+Insertion Sort: 230131299ns
+Counting Sort: 304874ns
+
+Execution #68
+Bubble Sort: 894751861ns
+Optimized Bubble Sort: 551964342ns
+Selection Sort: 468852575ns
+Optimized Selection Sort: 349958809ns
+Insertion Sort: 228524346ns
+Counting Sort: 217139ns
+
+Execution #69
+Bubble Sort: 838148843ns
+Optimized Bubble Sort: 515485126ns
+Selection Sort: 466051109ns
+Optimized Selection Sort: 295194585ns
+Insertion Sort: 225195218ns
+Counting Sort: 208232ns
+
+Execution #70
+Bubble Sort: 807959169ns
+Optimized Bubble Sort: 576310482ns
+Selection Sort: 469184794ns
+Optimized Selection Sort: 278021507ns
+Insertion Sort: 246220456ns
+Counting Sort: 298686ns
+
+Execution #71
+Bubble Sort: 1015090396ns
+Optimized Bubble Sort: 542877793ns
+Selection Sort: 491938007ns
+Optimized Selection Sort: 690030169ns
+Insertion Sort: 255653978ns
+Counting Sort: 224555ns
+
+Execution #72
+Bubble Sort: 821507960ns
+Optimized Bubble Sort: 499876750ns
+Selection Sort: 479791680ns
+Optimized Selection Sort: 246158189ns
+Insertion Sort: 217636613ns
+Counting Sort: 71490ns
+
+Execution #73
+Bubble Sort: 516577883ns
+Optimized Bubble Sort: 273654648ns
+Selection Sort: 218307532ns
+Optimized Selection Sort: 139845236ns
+Insertion Sort: 194711951ns
+Counting Sort: 195330ns
+
+Execution #74
+Bubble Sort: 774662077ns
+Optimized Bubble Sort: 434009472ns
+Selection Sort: 394225522ns
+Optimized Selection Sort: 254912757ns
+Insertion Sort: 208047996ns
+Counting Sort: 334334ns
+
+Execution #75
+Bubble Sort: 801231835ns
+Optimized Bubble Sort: 508819865ns
+Selection Sort: 439774473ns
+Optimized Selection Sort: 283425338ns
+Insertion Sort: 224504627ns
+Counting Sort: 279674ns
+
+Execution #76
+Bubble Sort: 977116667ns
+Optimized Bubble Sort: 598117559ns
+Selection Sort: 494126706ns
+Optimized Selection Sort: 481544537ns
+Insertion Sort: 246910336ns
+Counting Sort: 136807ns
+
+Execution #77
+Bubble Sort: 799867892ns
+Optimized Bubble Sort: 642457812ns
+Selection Sort: 373719911ns
+Optimized Selection Sort: 179556954ns
+Insertion Sort: 199961257ns
+Counting Sort: 190437ns
+
+Execution #78
+Bubble Sort: 640220791ns
+Optimized Bubble Sort: 441812774ns
+Selection Sort: 403688296ns
+Optimized Selection Sort: 214767233ns
+Insertion Sort: 227832070ns
+Counting Sort: 193966ns
+
+Execution #79
+Bubble Sort: 833472547ns
+Optimized Bubble Sort: 504147662ns
+Selection Sort: 447108455ns
+Optimized Selection Sort: 301609607ns
+Insertion Sort: 225246841ns
+Counting Sort: 191953ns
+
+Execution #80
+Bubble Sort: 781543124ns
+Optimized Bubble Sort: 493473216ns
+Selection Sort: 465364024ns
+Optimized Selection Sort: 262803922ns
+Insertion Sort: 200434485ns
+Counting Sort: 202787ns
+
+Execution #81
+Bubble Sort: 713799374ns
+Optimized Bubble Sort: 436299381ns
+Selection Sort: 377401308ns
+Optimized Selection Sort: 226395688ns
+Insertion Sort: 206173255ns
+Counting Sort: 82872ns
+
+Execution #82
+Bubble Sort: 652145750ns
+Optimized Bubble Sort: 322958792ns
+Selection Sort: 244688240ns
+Optimized Selection Sort: 145606116ns
+Insertion Sort: 197055968ns
+Counting Sort: 204400ns
+
+Execution #83
+Bubble Sort: 805106686ns
+Optimized Bubble Sort: 473478134ns
+Selection Sort: 426510519ns
+Optimized Selection Sort: 302872428ns
+Insertion Sort: 215907812ns
+Counting Sort: 219262ns
+
+Execution #84
+Bubble Sort: 811858751ns
+Optimized Bubble Sort: 492866013ns
+Selection Sort: 445978958ns
+Optimized Selection Sort: 318663063ns
+Insertion Sort: 215997941ns
+Counting Sort: 132997ns
+
+Execution #85
+Bubble Sort: 644588503ns
+Optimized Bubble Sort: 428339100ns
+Selection Sort: 357761548ns
+Optimized Selection Sort: 288476514ns
+Insertion Sort: 219668033ns
+Counting Sort: 203089ns
+
+Execution #86
+Bubble Sort: 766750522ns
+Optimized Bubble Sort: 471989635ns
+Selection Sort: 437356554ns
+Optimized Selection Sort: 258917954ns
+Insertion Sort: 215992349ns
+Counting Sort: 122849ns
+
+Execution #87
+Bubble Sort: 633655928ns
+Optimized Bubble Sort: 390454834ns
+Selection Sort: 323272183ns
+Optimized Selection Sort: 161165666ns
+Insertion Sort: 200915152ns
+Counting Sort: 333409ns
+
+Execution #88
+Bubble Sort: 886379258ns
+Optimized Bubble Sort: 557766353ns
+Selection Sort: 455296112ns
+Optimized Selection Sort: 427965812ns
+Insertion Sort: 223038109ns
+Counting Sort: 234400ns
+
+Execution #89
+Bubble Sort: 828713623ns
+Optimized Bubble Sort: 522318820ns
+Selection Sort: 455381355ns
+Optimized Selection Sort: 338497685ns
+Insertion Sort: 231213435ns
+Counting Sort: 105461ns
+
+Execution #90
+Bubble Sort: 573418710ns
+Optimized Bubble Sort: 344521805ns
+Selection Sort: 263393943ns
+Optimized Selection Sort: 157575052ns
+Insertion Sort: 181011959ns
+Counting Sort: 222716ns
+
+Execution #91
+Bubble Sort: 877069608ns
+Optimized Bubble Sort: 512595828ns
+Selection Sort: 428632463ns
+Optimized Selection Sort: 396003154ns
+Insertion Sort: 209761841ns
+Counting Sort: 193535ns
+
+Execution #92
+Bubble Sort: 774926425ns
+Optimized Bubble Sort: 465074925ns
+Selection Sort: 422215238ns
+Optimized Selection Sort: 242218946ns
+Insertion Sort: 207564026ns
+Counting Sort: 243871ns
+
+Execution #93
+Bubble Sort: 649380184ns
+Optimized Bubble Sort: 415638895ns
+Selection Sort: 338195689ns
+Optimized Selection Sort: 170002848ns
+Insertion Sort: 204494473ns
+Counting Sort: 241989ns
+
+Execution #94
+Bubble Sort: 842049947ns
+Optimized Bubble Sort: 505994752ns
+Selection Sort: 467939666ns
+Optimized Selection Sort: 316286079ns
+Insertion Sort: 199319120ns
+Counting Sort: 101485ns
+
+Execution #95
+Bubble Sort: 573189922ns
+Optimized Bubble Sort: 329901421ns
+Selection Sort: 280289755ns
+Optimized Selection Sort: 143174099ns
+Insertion Sort: 208384257ns
+Counting Sort: 121237ns
+
+Execution #96
+Bubble Sort: 553397999ns
+Optimized Bubble Sort: 308646280ns
+Selection Sort: 258795508ns
+Optimized Selection Sort: 148029124ns
+Insertion Sort: 197627524ns
+Counting Sort: 158751ns
+
+Execution #97
+Bubble Sort: 636550159ns
+Optimized Bubble Sort: 387665608ns
+Selection Sort: 323470530ns
+Optimized Selection Sort: 171445134ns
+Insertion Sort: 202223831ns
+Counting Sort: 250943ns
+
+Execution #98
+Bubble Sort: 864100486ns
+Optimized Bubble Sort: 514395967ns
+Selection Sort: 473182490ns
+Optimized Selection Sort: 334571675ns
+Insertion Sort: 231814049ns
+Counting Sort: 146143ns
+
+Execution #99
+Bubble Sort: 699702186ns
+Optimized Bubble Sort: 419515207ns
+Selection Sort: 359836842ns
+Optimized Selection Sort: 179141717ns
+Insertion Sort: 212448517ns
+Counting Sort: 87256ns
+
+Execution #100
+Bubble Sort: 543885746ns
+Optimized Bubble Sort: 320491274ns
+Selection Sort: 261363719ns
+Optimized Selection Sort: 143619683ns
+Insertion Sort: 198491246ns
+Counting Sort: 216521ns
+
+Sorting tests completed.
